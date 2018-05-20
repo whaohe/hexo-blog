@@ -75,5 +75,5 @@ typings/
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
-.deploy_git/*
+.deploy_git/
 public/*
